@@ -1,6 +1,6 @@
 <p align="center">
 <br />
-    <img src="https://github.com/user-attachments/assets/7e6b3290-e34f-4bc5-942e-2f88d1a50f84" width="400" alt=""/>
+    <img src="https://github.com/hackers-boiz/swifli/blob/main/logos/logo.png?raw=true" width="400" alt=""/>
 <br />
 </p>
 <p align="center"><strong style="font-size: 24px;">Web Links to Web3 Actions.</strong></p>

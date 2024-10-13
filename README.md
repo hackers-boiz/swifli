@@ -22,6 +22,15 @@ Swifli is a revolutionary protocol that transforms web links into instant web3 a
 
 ## Images
 
+![SS1](./screenshots/1-x-hacker-nft.png)
+![SS2](./screenshots/2-x-increment.png)
+![SS3](./screenshots/3-fallback-hacker-nft.png)
+![SS4](./screenshots/4-x-tx-hacker-nft.png)
+![SS5](./screenshots/5-explorer-hacker-nft.png)
+![SS6](./screenshots/6-exst-view.png)
+![SS7](./screenshots/7-x-liquidity.png)
+![SS8](./screenshots/8-x-swap.png)
+
 ## Source Code
 
 - [swiftly-smart-contract](https://github.com/hackers-boiz/swiftly-smart-contract)

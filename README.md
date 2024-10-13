@@ -24,6 +24,10 @@ Swifli is a revolutionary protocol that transforms web links into instant web3 a
 - **Soroban Smart Contracts**: Utilizes Stellar's new smart contract platform for advanced operations like NFT minting.
 - **Freighter Wallet Integration**: Seamless user authentication and transaction signing.
 
+### Architecture
+
+![Architecture](./screenshots/9-links-diagram.png)
+
 ### Demo
 
 [Loom Demo]()

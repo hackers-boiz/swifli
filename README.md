@@ -1,4 +1,16 @@
-# Swifli: Web Links to Web3 Actions
+<p align="center">
+<br />
+    <img src="https://github.com/user-attachments/assets/7e6b3290-e34f-4bc5-942e-2f88d1a50f84" width="400" alt=""/>
+<br />
+</p>
+<p align="center"><strong style="font-size: 24px;">Web Links to Web3 Actions.</strong></p>
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+    <span style="display: inline-flex; align-items: center; background-color: #1c1c1c; padding: 5px; border-radius: 6px;">
+        <img src="https://img.shields.io/github/stars/hacker-boiz/swifli?style=social" alt="GitHub stars"/>
+    </span>
+</p>
+
+---
 
 ## What is Swifli?
 

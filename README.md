@@ -31,7 +31,11 @@ The platform also incorporates a robust registry for verified and safe-to-intera
 
 ### Architecture
 
+#### High-level architecture of the Swifli protocol.
+
 ![Diagram](./screenshots/excalidraw.png)
+
+#### Low-level architecture of the Swifli protocol.
 
 ![Architecture](./screenshots/9-links-diagram.png)
 

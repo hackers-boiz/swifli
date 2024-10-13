@@ -43,6 +43,8 @@ The platform also incorporates a robust registry for verified and safe-to-intera
 
 [Platform Demo](https://drive.google.com/file/d/1WtuPdw-4x9cWNTLZyKl1m77TuS7HZufN/view?usp=sharing)
 
+[Loom Demo - Walkthrough the solution](https://www.loom.com/share/6cf2f4c42e2948569796695618e63d81?sid=a373c8da-0348-4d33-8c98-ef73509cb881)
+
 ### Platform Live
 
 [Live Demo - Fallback platform for users without Swifli extension](https://swifli.23stud.io/987)

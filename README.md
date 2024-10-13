@@ -26,7 +26,7 @@ Swifli is a revolutionary protocol that transforms web links into instant web3 a
 
 ### Demo
 
-[Loom Demo](https://demo.swifli.com)
+[Loom Demo](https://swifli.23stud.io/987)
 
 ### Presentation
 

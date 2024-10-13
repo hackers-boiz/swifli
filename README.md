@@ -41,7 +41,7 @@ The platform also incorporates a robust registry for verified and safe-to-intera
 
 ### Demo
 
-[Loom Demo]()
+[Platform Demo](https://drive.google.com/file/d/1WtuPdw-4x9cWNTLZyKl1m77TuS7HZufN/view?usp=sharing)
 
 ### Platform Live
 

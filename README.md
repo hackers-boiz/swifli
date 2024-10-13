@@ -14,7 +14,11 @@
 
 ### What is Swifli?
 
-Swifli is a revolutionary protocol that transforms web links into instant web3 actions, enabling seamless blockchain interactions across all platforms. By encoding complex blockchain operations into simple, shareable URLs, Swifli bridges the gap between traditional web experiences and web3 capabilities. Our platform democratizes access to blockchain technology, making it as easy as clicking a link to perform actions like sending payments, minting NFTs, or executing smart contracts on the Stellar network.
+Swifli is an innovative protocol designed to bridge the gap between traditional web experiences and blockchain capabilities. By encoding complex blockchain operations into simple, shareable URLs, Swifli democratizes access to various functionalities, such as DeFi and NFT management on the Stellar network.
+
+The protocol supports both Stellar-native wallets, like Freighter, and Passkeys, ensuring accessibility for both experienced blockchain users and newcomers alike. If users do not have our extension to decode Swifli links, we have a fallback page ready for seamless interactions. Swifli empowers users to execute a range of blockchain actions effortlessly, including trading on DEXs, providing liquidity, minting NFTs, and interacting with smart contracts, all through familiar web interfaces.
+
+The platform also incorporates a robust registry for verified and safe-to-interact links, coupled with a fallback mechanism for users without the Swifli extension, ensuring a smooth and secure experience across various scenarios. Through its innovative approach, Swifli is paving the way for the widespread adoption of blockchain technologies, making complex operations as simple as clicking a link and opening new possibilities for decentralized applications in the digital era.
 
 ### Features
 

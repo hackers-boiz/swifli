@@ -49,6 +49,8 @@ The platform also incorporates a robust registry for verified and safe-to-intera
 
 [Live Demo - Example of a Swifli link on X (Twitter)](https://x.com/sydropps/status/1845323961367728597)
 
+[Registry - Verified and safe-to-interact links](https://github.com/hackers-boiz/swifly-verification)
+
 ### Presentation
 
 [Presentation](https://www.canva.com/design/DAGTZAzVdAk/jOuua7dD-ja-6QcXNUwSZw/edit?utm_content=DAGTZAzVdAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

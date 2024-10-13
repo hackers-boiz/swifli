@@ -31,6 +31,8 @@ The platform also incorporates a robust registry for verified and safe-to-intera
 
 ### Architecture
 
+![Diagram](./diagram/excalidraw.png)
+
 ![Architecture](./screenshots/9-links-diagram.png)
 
 ### Demo

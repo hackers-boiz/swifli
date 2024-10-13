@@ -23,6 +23,7 @@ Swifli is a revolutionary protocol that transforms web links into instant web3 a
 - **Astro Frontend**: Slick and responsive user interface built with the Astro framework.
 - **Soroban Smart Contracts**: Utilizes Stellar's new smart contract platform for advanced operations like NFT minting.
 - **Freighter Wallet Integration**: Seamless user authentication and transaction signing.
+- **Passkeys**: Secure and easy-to-use authentication method for non-native users.
 
 ### Architecture
 
@@ -35,6 +36,7 @@ Swifli is a revolutionary protocol that transforms web links into instant web3 a
 ### Platform Live
 
 [Live Demo - Fallback platform for users without Swifli extension](https://swifli.23stud.io/987)
+
 [Live Demo - Example of a Swifli link on X (Twitter)](https://x.com/sydropps/status/1845323961367728597)
 
 ### Presentation
